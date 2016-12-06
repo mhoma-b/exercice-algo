@@ -1,0 +1,1 @@
+# exercice 2: Calculer la somme des "n" premiers termes de la suite de Fibonacci.
